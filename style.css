@@ -1,0 +1,102 @@
+img{
+	border-radius: 20px;
+	width: 30%;
+}
+h1 {
+	color: black;
+}
+#wEird_bnB_BanNEr {
+	width: 100%;
+}
+#wEird_bnB_BanNEr {
+	width: 100%;
+	border-radius: 10px;
+	position: relative;
+}
+#suchwow{
+	display: flex;
+	justify-content: space-evenly;
+}
+.WELCOME_TO_HeL{
+	width: 400px;
+	height: 400px;
+	border-radius: 10px;
+	object-fit: cover;
+}
+#user_button {
+	width: 7%;
+	position: absolute;
+	transform: translate(1200%, 0%);
+}
+p{
+	font-size: 150%;
+	color: #000000;
+}
+li{
+	list-style-type: none;
+	line-height: 30px;
+}
+#bar{
+	transform: translate(-1000%, 0%);
+}
+.cards{
+	width: 100%;
+	display: flex;
+	justify-content: space-evenly;
+}
+.exp{
+	width: 400px;
+	height: 400px;
+}
+#youknownothing{
+	width: 100%;
+}
+#ranoutofnames{
+	position: relative;
+}
+.idk{
+	position: absolute;
+	color: white;
+	transform: translate(0, -1000%);
+}
+.idk2{
+	position: absolute;
+	color: white;
+	transform: translate(0, -440%);
+}
+.idk3{
+	position: absolute;
+	color: white;
+	transform: translate(0, -430%);
+}
+#suchwow > p{
+	position: absolute;
+    transform: translate(0, 900%);
+    z-index: 10;
+}
+.alert-secondary{
+	width: 100%;
+}
+.ooaa{
+	position: relative;
+	text-color: blue;
+	font-weight: bold;
+}
+.a{
+	width: 400px;
+	height: 400px;
+}
+.carousel-item{
+	width: 50%;
+	border-radius: 30px;
+}
+#bnb{
+	width: 15%;
+	height: 40%;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	padding: 2%;
+}
